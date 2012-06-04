@@ -1,0 +1,150 @@
+/***********************************
+FlexInc. 2011
+http://www.loziosecchi.it/flex_inc
+http://flashden.net/user/loziosecchi
+http://twitter.com//loziosecchi
+***********************************/
+
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+@namespace skins "flexInc.plastique.skins.*";
+@namespace spark "spark.skins.spark.*";
+
+@font-face
+{
+	src: url("assets/fonts/comfortaa/Comfortaa-Regular.ttf");
+	fontFamily: Comfortaa;
+	fontStyle: normal;
+	fontWeight: normal;
+	embed-as-cff: true;
+}
+
+@font-face
+{
+	src: url("assets/fonts/comfortaa/Comfortaa-Bold.ttf");
+	fontFamily: Comfortaa;
+	fontStyle: normal;
+	fontWeight: bold;
+	embed-as-cff: true;
+}
+
+s|Application
+{
+	fontFamily: Comfortaa;
+	fontSize: 20;
+	backgroundColor: #ebebeb;
+	color: #666666;
+	chromeColor: #222222;
+	focusedTextSelectionColor: #dadada;
+	focusColor: #ffffff;
+	symbolColor: #e6e6e6;
+}
+
+s|Button
+{
+	skinClass: ClassReference("flexInc.plastique.skins.ButtonSkin");
+}
+
+s|ButtonBar
+{
+	skinClass: ClassReference("flexInc.plastique.skins.ButtonBarSkin");
+}
+
+s|CheckBox
+{
+	skinClass: ClassReference("flexInc.plastique.skins.CheckBoxSkin");
+}
+
+s|ComboBox
+{
+	skinClass: ClassReference("flexInc.plastique.skins.ComboBoxSkin");
+	paddingLeft: 10;
+	paddingRight: 10;
+	paddingTop: 10;
+	paddingBottom: 7;
+}
+
+spark|DefaultItemRenderer
+{
+	selectionColor: #cdcdcd;
+	rollOverColor: #dedede;
+}
+
+s|DropDownList
+{
+	skinClass: ClassReference("flexInc.plastique.skins.DropDownListSkin");
+}
+
+s|HScrollBar
+{
+	skinClass: ClassReference("flexInc.plastique.skins.HScrollBarSkin");
+}
+
+s|HSlider
+{
+	skinClass: ClassReference("flexInc.plastique.skins.HSliderSkin");
+}
+
+s|NumericStepper
+{
+	skinClass: ClassReference("flexInc.plastique.skins.NumericStepperSkin");
+}
+
+s|Panel
+{
+	skinClass: ClassReference("flexInc.plastique.skins.PanelSkin");
+}
+
+s|RadioButton
+{
+	skinClass: ClassReference("flexInc.plastique.skins.RadioButtonSkin");
+}
+
+s|Spinner
+{
+	skinClass: ClassReference("flexInc.plastique.skins.SpinnerSkin");	
+}
+
+s|TabBar
+{
+	skinClass: ClassReference("flexInc.plastique.skins.TabBarSkin");
+}
+
+s|TextArea
+{	
+	skinClass: ClassReference("flexInc.plastique.skins.TextAreaSkin");
+	paddingLeft: 10;
+	paddingRight: 10;
+	paddingTop: 10;
+	paddingBottom: 7;
+}
+
+s|TextInput
+{	
+	skinClass: ClassReference("flexInc.plastique.skins.TextInputSkin");
+	paddingLeft: 10;
+	paddingRight: 10;
+	paddingTop: 10;
+	paddingBottom: 7;
+}
+
+s|TitleWindow
+{
+	skinClass: ClassReference("flexInc.plastique.skins.TitleWindowSkin");
+}
+
+s|ToggleButton
+{
+	skinClass: ClassReference("flexInc.plastique.skins.ToggleButtonSkin");
+}
+
+s|VScrollBar
+{
+	skinClass: ClassReference("flexInc.plastique.skins.VScrollBarSkin");
+}
+
+s|VSlider
+{
+	skinClass: ClassReference("flexInc.plastique.skins.VSliderSkin");
+}
+

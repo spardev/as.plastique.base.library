@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="flexInc.plastique.skins.ButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.ToggleButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.RadioButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.CheckBoxSkin"/>
+    <classEntry path="flexInc.plastique.skins.TextAreaSkin"/>
+    <classEntry path="flexInc.plastique.skins.TextInputSkin"/>
+    <classEntry path="flexInc.plastique.skins.HSliderSkin"/>
+    <classEntry path="flexInc.plastique.skins.HSliderTrackSkin"/>
+    <classEntry path="flexInc.plastique.skins.HSliderThumbSkin"/>
+    <classEntry path="flexInc.plastique.skins.VSliderSkin"/>
+    <classEntry path="flexInc.plastique.skins.VSliderThumbSkin"/>
+    <classEntry path="flexInc.plastique.skins.VSliderTrackSkin"/>
+    <classEntry path="flexInc.plastique.skins.VScrollBarSkin"/>
+    <classEntry path="flexInc.plastique.skins.VScrollBarTrackSkin"/>
+    <classEntry path="flexInc.plastique.skins.VScrollBarThumbSkin"/>
+    <classEntry path="flexInc.plastique.skins.ScrollBarUpButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.ScrollBarDownButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.HScrollBarSkin"/>
+    <classEntry path="flexInc.plastique.skins.HScrollBarTrackSkin"/>
+    <classEntry path="flexInc.plastique.skins.HScrollBarThumbSkin"/>
+    <classEntry path="flexInc.plastique.skins.ScrollBarLeftButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.ScrollBarRightButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.ButtonBarSkin"/>
+    <classEntry path="flexInc.plastique.skins.ButtonBarFirstButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.ButtonBarMiddleButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.ButtonBarLastButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.TabBarSkin"/>
+    <classEntry path="flexInc.plastique.skins.TabBarButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.SpinnerSkin"/>
+    <classEntry path="flexInc.plastique.skins.SpinnerIncrementButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.SpinnerDecrementButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.NumericStepperSkin"/>
+    <classEntry path="flexInc.plastique.skins.NumericStepperIncrementButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.NumericStepperDecrementButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.NumericStepperTextInputSkin"/>
+    <classEntry path="flexInc.plastique.skins.DropDownListSkin"/>
+    <classEntry path="flexInc.plastique.skins.DropDownListButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.ComboBoxSkin"/>
+    <classEntry path="flexInc.plastique.skins.ComboBoxTextInputSkin"/>
+    <classEntry path="flexInc.plastique.skins.ComboBoxButtonSkin"/>
+    <classEntry path="flexInc.plastique.skins.PanelSkin"/>
+    <classEntry path="flexInc.plastique.skins.TitleWindowSkin"/>
+    <classEntry path="flexInc.plastique.skins.TitleWindowCloseButtonSkin"/>
+  </includeClasses>
+  <includeResources>
+    <resourceEntry destPath="assets/fonts/comfortaa/OFL.txt" sourcePath="assets/fonts/comfortaa/OFL.txt"/>
+    <resourceEntry destPath="assets/fonts/comfortaa/FONTLOG.txt" sourcePath="assets/fonts/comfortaa/FONTLOG.txt"/>
+    <resourceEntry destPath="assets/fonts/comfortaa/Comfortaa-Light.ttf" sourcePath="assets/fonts/comfortaa/Comfortaa-Light.ttf"/>
+    <resourceEntry destPath="assets/fonts/comfortaa/Comfortaa-Bold.ttf" sourcePath="assets/fonts/comfortaa/Comfortaa-Bold.ttf"/>
+    <resourceEntry destPath="defaults.css" sourcePath="defaults.css"/>
+    <resourceEntry destPath="assets/fonts/comfortaa/Comfortaa-Regular.ttf" sourcePath="assets/fonts/comfortaa/Comfortaa-Regular.ttf"/>
+    <resourceEntry destPath="plastiqueBaseSet.css" sourcePath="plastiqueBaseSet.css"/>
+    <resourceEntry destPath="assets/fonts/comfortaa/donate.html" sourcePath="assets/fonts/comfortaa/donate.html"/>
+    <resourceEntry destPath="assets/fonts/comfortaa/Comfortaa presentation.png" sourcePath="assets/fonts/comfortaa/Comfortaa presentation.png"/>
+  </includeResources>
+  <namespaceManifests/>
+</flexLibProperties>
